@@ -3,8 +3,7 @@
 #include "funcs.h"
 #include <iomanip>
 
-int main()
-{
+int main() {
   //Task A
   Coord3D pointP = {10, 20, 30};
     std::cout << "Part A" << std::endl;
